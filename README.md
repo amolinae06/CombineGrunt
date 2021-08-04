@@ -1,2 +1,2 @@
 # CombineGrunt
-A Discord bot
+I love Half-Life
